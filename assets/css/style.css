@@ -112,6 +112,8 @@ h1, h2, h3, h4, h5, h6 {
 .txt__inner{
     margin: 0 25px;
     padding: 8px 20px;
+    min-width: 50%;
+    min-height: 2.5rem;
     background-color: #fff;
     border: 1px solid #dc5227;
     box-shadow: 0 2px 0 #fff;
